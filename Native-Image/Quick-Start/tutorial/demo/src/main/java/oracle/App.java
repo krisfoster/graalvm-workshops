@@ -41,7 +41,6 @@ package oracle;
  * SOFTWARE.
  */
 
-jskfjdfkjdfksjfskfj
 /**
  * OUr App. This will count the number of files within a directory, and sub dirs,
  * and also calculate the total size of all o fthe files.
